@@ -1,0 +1,90 @@
+{
+  "tabs": {
+    "home": "Home",
+    "browse": "Browse",
+    "rights": "Your Rights",
+    "quiz": "Quiz",
+    "bookmarks": "Saved"
+  },
+  "home": {
+    "superTitle": "CONSTITUTION OF INDIA",
+    "appTitle": "ThePeople",
+    "heroBadge": "OFFICIAL REPOSITORY",
+    "offlineBadge": "100% OFFLINE",
+    "heroTitle": "Constitutional Rights for Every Citizen",
+    "heroSubtitle": "Official text and plain-language guides crafted to be clear, trustworthy, and accessible to everyone.",
+    "partsCount": "Parts",
+    "articlesCount": "Articles",
+    "schedulesCount": "Schedules",
+    "searchPlaceholder": "Search by Article number (e.g. 21A) or keyword...",
+    "exploreTitle": "Explore Quick Links",
+    "articleOfDay": "ARTICLE OF THE DAY",
+    "readArticle": "Read Full Text & Explanation",
+    "keyRights": "Crucial Rights for Every Citizen",
+    "swipe": "Swipe →",
+    "tapToRead": "Tap to read →"
+  },
+  "rights": {
+    "title": "Know Your Rights",
+    "subtitle": "Fundamental Rights, Duties & Principles",
+    "rightsTab": "Rights",
+    "dutiesTab": "11 Duties",
+    "principlesTab": "Principles",
+    "filterPlaceholder": "Filter rights, duties, or principles...",
+    "actionTitle": "YOUR CITIZEN ACTION:"
+  },
+  "browse": {
+    "title": "Constitutional Index",
+    "subtitle": "Explore by Part, Chapter & Schedule",
+    "partsTab": "All 26 Parts",
+    "schedulesTab": "12 Schedules",
+    "filterPartsPlaceholder": "Filter by Part (e.g. Fundamental Rights)...",
+    "filterSchedulesPlaceholder": "Filter by Schedule (e.g. Languages)..."
+  },
+  "quiz": {
+    "title": "Constitution Quiz",
+    "subtitle": "Interactive Citizen Challenge",
+    "masteryTitle": "Citizen Score",
+    "points": "Points",
+    "selectTopic": "Select a Quiz Topic",
+    "startQuiz": "Start Quiz",
+    "retakeQuiz": "Retake Challenge",
+    "question": "Question",
+    "nextQuestion": "Next Question →",
+    "finishQuiz": "See Final Score 🎉",
+    "shareScore": "Share Score with Friends",
+    "backToTopics": "Back to All Topics"
+  },
+  "bookmarks": {
+    "title": "Saved Articles",
+    "subtitle": "Personal Offline Library",
+    "filterPlaceholder": "Filter your saved articles...",
+    "emptyTitle": "No Saved Articles Yet",
+    "emptyDesc": "Tap the bookmark icon on any constitutional article while reading to save it here for quick offline reading anytime.",
+    "exploreRightsBtn": "Explore Fundamental Rights",
+    "shareAll": "Share List",
+    "clearAll": "Clear All"
+  },
+  "settings": {
+    "title": "Settings & Accessibility",
+    "subtitle": "Language, Appearance & Text Size",
+    "language": "Language (भाषा)",
+    "appearance": "Appearance",
+    "textSize": "Text Size (Accessibility)",
+    "previewHeading": "Live Text Size Preview",
+    "previewText": "This preview reflects how text scales across all constitutional articles and plain-language summaries.",
+    "aboutTitle": "About ThePeople App",
+    "aboutDesc": "A production-grade, 100% offline educational app making the Constitution of India accessible to every Indian citizen.",
+    "sourceText": "Official Text Source: Ministry of Law and Justice, Government of India.",
+    "developerTitle": "Creator & Developer",
+    "developerName": "M. Sohel",
+    "developerBio": "Built with pride to empower every Indian citizen with constitutional knowledge.",
+    "developerLinkText": "Visit GitHub (@m-sohel)",
+    "disclaimerTitle": "Official Source & Legal Disclaimer",
+    "disclaimerBadge": "NON-GOVERNMENTAL EDUCATIONAL APP",
+    "disclaimerSource": "Authentic Content Source: The complete constitutional text in this app is sourced verbatim from the authentic and official Constitution of India, published by the Legislative Department, Ministry of Law and Justice, Government of India.",
+    "disclaimerNonGov": "Non-Governmental Initiative: 'ThePeople' is an independent civic education initiative created by M. Sohel. It is not affiliated with, endorsed by, or representing any government department or official authority.",
+    "disclaimerAdvice": "Educational Purpose Only: The plain-language explanations and real-world examples are created to foster constitutional literacy and do not constitute formal legal counsel. For official legal proceedings, consult the official Gazette or a qualified legal professional."
+  }
+}
+
